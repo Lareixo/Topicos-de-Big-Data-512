@@ -1,0 +1,6 @@
+# Dependencias del proyecto
+# Ejemplo:
+# pandas
+# numpy
+# matplotlib
+# jupyter
